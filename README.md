@@ -19,7 +19,7 @@
 <br />
 <br />
 
----
+
 
 
 
@@ -32,7 +32,7 @@
 <br />
 <br/>
 
-### Connect with me:
+## Connect with me:
 <a href="https://www.linkedin.com/in/rutuja-patil-87b165216"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;" /></a>
 <a href="mailto:rutujapatil0511@gmail.com"><img align="left" alt="Mail" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  style="padding-right:10px;" /></a>
 <a href="https://www.instagram.com/rutujapatil_1051/"><img align="left" alt="InstaGram" width="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  style="padding-right:10px;" /></a>
