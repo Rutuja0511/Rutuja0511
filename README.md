@@ -28,8 +28,7 @@
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" /> 
 
 <br />
-<br />
---- 
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/rutuja-patil-87b165216"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;" /></a>
