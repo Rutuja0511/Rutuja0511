@@ -1,7 +1,7 @@
 # Hello there, I'm Rutuja Patil👋 
 
 
-- 🔭 I’m currently 24th year Computer Engineering Student.
+- 🔭 I’m currently 4th year Computer Engineering Student.
 - 🌱 I’m interested in web n app development
 - 🥅 2023 Goals: Learn more languages 
 
